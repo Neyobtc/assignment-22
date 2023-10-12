@@ -6,14 +6,15 @@
  
 ## Department Classification
 
- Employees was categorized into specific departments, such as Communication, Sales, and I.T. This classification aids in department-specific reporting and management.
+  Employees was categorized into specific departments, such as Communication, Sales, and I.T. This classification aids in department-specific reporting and management.
+  
 
  ## Salary 
 
- Salary was enter into the table manually to provides information within a predefined range ($5000-$25000). This allows organizations to easily categorize employee compensation.
+ Salary was generated using randbetween fuction on excel 
 
  ## Tools 
 
  - Excel 
 
-## Data source 
+
